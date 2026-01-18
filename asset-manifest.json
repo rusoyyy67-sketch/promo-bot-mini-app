@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/promo-bot-mini-app/static/css/main.4395f524.css",
+    "main.js": "/promo-bot-mini-app/static/js/main.dc77085d.js",
+    "index.html": "/promo-bot-mini-app/index.html",
+    "main.4395f524.css.map": "/promo-bot-mini-app/static/css/main.4395f524.css.map",
+    "main.dc77085d.js.map": "/promo-bot-mini-app/static/js/main.dc77085d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4395f524.css",
+    "static/js/main.dc77085d.js"
+  ]
+}
