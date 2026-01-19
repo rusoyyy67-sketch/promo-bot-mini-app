@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/promo-bot-mini-app/static/css/main.d4ed5d4a.css",
-    "main.js": "/promo-bot-mini-app/static/js/main.6d92b96e.js",
+    "main.css": "/promo-bot-mini-app/static/css/main.a1995335.css",
+    "main.js": "/promo-bot-mini-app/static/js/main.f4d302ab.js",
+    "static/media/menu-bg.jpg": "/promo-bot-mini-app/static/media/menu-bg.f0c92ac153221d274cf2.jpg",
     "static/media/photo_2025-10-10_13-02-11.jpg": "/promo-bot-mini-app/static/media/photo_2025-10-10_13-02-11.3d5168226b2f6a92374a.jpg",
     "index.html": "/promo-bot-mini-app/index.html",
-    "main.d4ed5d4a.css.map": "/promo-bot-mini-app/static/css/main.d4ed5d4a.css.map",
-    "main.6d92b96e.js.map": "/promo-bot-mini-app/static/js/main.6d92b96e.js.map"
+    "main.a1995335.css.map": "/promo-bot-mini-app/static/css/main.a1995335.css.map",
+    "main.f4d302ab.js.map": "/promo-bot-mini-app/static/js/main.f4d302ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4ed5d4a.css",
-    "static/js/main.6d92b96e.js"
+    "static/css/main.a1995335.css",
+    "static/js/main.f4d302ab.js"
   ]
 }
