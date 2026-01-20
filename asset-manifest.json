@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/promo-bot-mini-app/static/css/main.dfcd53fd.css",
-    "main.js": "/promo-bot-mini-app/static/js/main.43e0a69c.js",
+    "main.css": "/promo-bot-mini-app/static/css/main.95c05402.css",
+    "main.js": "/promo-bot-mini-app/static/js/main.5f5c83ee.js",
     "static/media/logo.png": "/promo-bot-mini-app/static/media/logo.0ffe3b84f6591260cea4.png",
     "static/media/photo_2025-10-10_13-02-11.jpg": "/promo-bot-mini-app/static/media/photo_2025-10-10_13-02-11.3d5168226b2f6a92374a.jpg",
     "index.html": "/promo-bot-mini-app/index.html",
-    "main.dfcd53fd.css.map": "/promo-bot-mini-app/static/css/main.dfcd53fd.css.map",
-    "main.43e0a69c.js.map": "/promo-bot-mini-app/static/js/main.43e0a69c.js.map"
+    "main.95c05402.css.map": "/promo-bot-mini-app/static/css/main.95c05402.css.map",
+    "main.5f5c83ee.js.map": "/promo-bot-mini-app/static/js/main.5f5c83ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfcd53fd.css",
-    "static/js/main.43e0a69c.js"
+    "static/css/main.95c05402.css",
+    "static/js/main.5f5c83ee.js"
   ]
 }
