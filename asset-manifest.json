@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/promo-bot-mini-app/static/css/main.3722b21b.css",
-    "main.js": "/promo-bot-mini-app/static/js/main.c157ea1a.js",
+    "main.css": "/promo-bot-mini-app/static/css/main.6a725702.css",
+    "main.js": "/promo-bot-mini-app/static/js/main.d81925a1.js",
     "static/media/point.jpg": "/promo-bot-mini-app/static/media/point.c93d683e1ad4b22e9ef4.jpg",
     "static/media/roz.jpg": "/promo-bot-mini-app/static/media/roz.e949593b26b6ce387bef.jpg",
     "static/media/logo.png": "/promo-bot-mini-app/static/media/logo.0ffe3b84f6591260cea4.png",
@@ -13,7 +13,7 @@
     "index.html": "/promo-bot-mini-app/index.html"
   },
   "entrypoints": [
-    "static/css/main.3722b21b.css",
-    "static/js/main.c157ea1a.js"
+    "static/css/main.6a725702.css",
+    "static/js/main.d81925a1.js"
   ]
 }
