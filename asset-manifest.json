@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/promo-bot-mini-app/static/css/main.5ae6618b.css",
-    "main.js": "/promo-bot-mini-app/static/js/main.58e2cf29.js",
+    "main.js": "/promo-bot-mini-app/static/js/main.2d38e194.js",
     "static/media/point.jpg": "/promo-bot-mini-app/static/media/point.c93d683e1ad4b22e9ef4.jpg",
     "static/media/logo.png": "/promo-bot-mini-app/static/media/logo.0ffe3b84f6591260cea4.png",
+    "static/media/photo_2025-10-10_13-02-11.jpg": "/promo-bot-mini-app/static/media/photo_2025-10-10_13-02-11.3d5168226b2f6a92374a.jpg",
     "index.html": "/promo-bot-mini-app/index.html"
   },
   "entrypoints": [
     "static/css/main.5ae6618b.css",
-    "static/js/main.58e2cf29.js"
+    "static/js/main.2d38e194.js"
   ]
 }
