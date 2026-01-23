@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/promo-bot-mini-app/static/css/main.d56153ef.css",
+    "main.css": "/promo-bot-mini-app/static/css/main.274d6712.css",
     "main.js": "/promo-bot-mini-app/static/js/main.2ab7186e.js",
     "static/media/point.jpg": "/promo-bot-mini-app/static/media/point.c93d683e1ad4b22e9ef4.jpg",
     "static/media/logo.png": "/promo-bot-mini-app/static/media/logo.0ffe3b84f6591260cea4.png",
@@ -8,7 +8,7 @@
     "index.html": "/promo-bot-mini-app/index.html"
   },
   "entrypoints": [
-    "static/css/main.d56153ef.css",
+    "static/css/main.274d6712.css",
     "static/js/main.2ab7186e.js"
   ]
 }
