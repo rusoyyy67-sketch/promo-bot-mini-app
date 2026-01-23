@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/promo-bot-mini-app/static/css/main.8699b0a3.css",
-    "main.js": "/promo-bot-mini-app/static/js/main.e5af05b4.js",
+    "main.css": "/promo-bot-mini-app/static/css/main.3722b21b.css",
+    "main.js": "/promo-bot-mini-app/static/js/main.c157ea1a.js",
     "static/media/point.jpg": "/promo-bot-mini-app/static/media/point.c93d683e1ad4b22e9ef4.jpg",
+    "static/media/roz.jpg": "/promo-bot-mini-app/static/media/roz.e949593b26b6ce387bef.jpg",
     "static/media/logo.png": "/promo-bot-mini-app/static/media/logo.0ffe3b84f6591260cea4.png",
+    "static/media/menu.jpg": "/promo-bot-mini-app/static/media/menu.dbcf6984d05d32759aeb.jpg",
+    "static/media/nac.jpg": "/promo-bot-mini-app/static/media/nac.ba538e26ba1c61c3ea08.jpg",
+    "static/media/action.jpg": "/promo-bot-mini-app/static/media/action.4a77378d20c7aab75852.jpg",
     "static/media/photo_2025-10-10_13-02-11.jpg": "/promo-bot-mini-app/static/media/photo_2025-10-10_13-02-11.3d5168226b2f6a92374a.jpg",
+    "static/media/obed.jpg": "/promo-bot-mini-app/static/media/obed.f28d837d8febd0e19b31.jpg",
     "index.html": "/promo-bot-mini-app/index.html"
   },
   "entrypoints": [
-    "static/css/main.8699b0a3.css",
-    "static/js/main.e5af05b4.js"
+    "static/css/main.3722b21b.css",
+    "static/js/main.c157ea1a.js"
   ]
 }
